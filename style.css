@@ -162,7 +162,7 @@ section {
 
 .icons i {
     display: block;
-    margin: 26px;
+    margin: 26px 0;
     font-size: 24px;
     transition: all 0.5s ease;
 }
@@ -231,7 +231,7 @@ section {
         display: block;
     }
 
-    .menu-icon{
+    #menu-icon{
         display: block;
     }
 
